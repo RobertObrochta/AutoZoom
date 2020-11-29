@@ -1,5 +1,5 @@
 # asks for user input: url, day, and time
-# need to place this in the vim run thing, and the venv
+# in the future, I will add a screen record feature to this
 
 import webbrowser
 import schedule
